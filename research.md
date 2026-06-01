@@ -7,6 +7,8 @@ We are the Birol Labs, a group invested in genome research. The lab develops com
 
 By transforming massive sequencing datasets into biological knowledge, we seek to advance our understanding of genome structure, evolution, diversity, and disease. Our work supports a wide range of applications, from biodiversity monitoring and forest genomics to precision medicine and the development of ancestry-aware genomic technologies. Through both methodological innovation and collaborative research, we aim to expand the capabilities of modern genomics and make advanced genomic analyses accessible to the broader scientific community.
 
+The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications.
+
 Below is an overview of our key research activities.
 
 #### **Fundamental Bioinformatics: Algorithms and Data Structures**
@@ -57,6 +59,3 @@ Substantial advancements in healthcare can be realized through the development o
 
 Conifers in general and spruce trees in particular are Canada’s most significant forest resource. Spruces produce high quality wood and fibre that is widely used in the industry, and as dominant species of Canada’s forests, they provide essential local and global ecosystem services. As part of the [spruce-up](https://spruce-up.ca/) project and in collaboration with multiple organizations that includes [CGEn](https://www.cgen.ca/), [CanSeq150](https://www.cgen.ca/canseq150-overview), the [Canada BioGenome](https://earthbiogenome.ca/index.mhtml) and [Earth BioGenome](https://www.earthbiogenome.org/) projects, we are building genomic resources and technologies to help protect our forests and preserve their biodiversity for future generations.
 
-#### **Funding**
-
-The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications.
