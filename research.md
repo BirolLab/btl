@@ -9,7 +9,12 @@ By transforming massive sequencing datasets into biological knowledge, we seek t
 
 The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications.
 
+[[![CIHR-IRSC Logo](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)https://www.birollab.ca/assets/logos/cihr-logo.png]
+
 Le principal programme de recherche actuel du laboratoire (2025–2030) est soutenu par un [projet financé par les IRSC](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=fr) portant sur l’inférence de l’ascendance génomique à partir des données de séquençage, la détection de synténie à grande échelle entre de multiples génomes et le développement d’outils de visualisation interactive pour la médecine de précision.
+
+We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
+[![Logo du CRSNG](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 
 
 Below is an overview of our key research activities.
