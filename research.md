@@ -18,7 +18,7 @@ Through funding from Agriculture and Agri-Food Canada's AgriScience Program (202
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 <br>
 <a href="https://agriculture.canada.ca/en">
-  <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:250px; height:auto;">
+  <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:400px; height:auto;">
 </a>
 
 
