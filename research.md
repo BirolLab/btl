@@ -7,13 +7,16 @@ We are the Birol Labs, a group invested in genome research. The lab develops com
 
 By transforming massive sequencing datasets into biological knowledge, we seek to advance our understanding of genome structure, evolution, diversity, and disease. Our work supports a wide range of applications, from biodiversity monitoring and forest genomics to precision medicine and the development of ancestry-aware genomic technologies. Through both methodological innovation and collaborative research, we aim to expand the capabilities of modern genomics and make advanced genomic analyses accessible to the broader scientific community.
 
-The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications.
-[![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) 
-Le principal programme de recherche actuel du laboratoire (2025–2030) est soutenu par un [projet financé par les IRSC](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=fr) portant sur l’inférence de l’ascendance génomique à partir des données de séquençage, la détection de synténie à grande échelle entre de multiples génomes et le développement d’outils de visualisation interactive pour la médecine de précision.
+The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications. Le principal programme de recherche actuel du laboratoire (2025–2030) est soutenu par un [projet financé par les IRSC](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=fr) portant sur l’inférence de l’ascendance génomique à partir des données de séquençage, la détection de synténie à grande échelle entre de multiples génomes et le développement d’outils de visualisation interactive pour la médecine de précision.
 
-We currently receive additional funding from NSERC.
+We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
+
+
+<br>
+[![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
-Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
+<br>
+
 
 
 Below is an overview of our key research activities.
