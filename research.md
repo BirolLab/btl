@@ -7,11 +7,15 @@ We are the Birol Labs, a group invested in genome research. The lab develops com
 
 By transforming massive sequencing datasets into biological knowledge, we seek to advance our understanding of genome structure, evolution, diversity, and disease. Our work supports a wide range of applications, from biodiversity monitoring and forest genomics to precision medicine and the development of ancestry-aware genomic technologies. Through both methodological innovation and collaborative research, we aim to expand the capabilities of modern genomics and make advanced genomic analyses accessible to the broader scientific community.
 
+Below is an overview of our key research activities.
+
+#### **Funding**
+
 The lab's current flagship research program (2025–2030) is supported through a [CIHR-funded project](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en) focused on sequence-based ancestry inference, large-scale multi-genome synteny detection, and interactive visualization technologies for precision medicine applications. Le principal programme de recherche actuel du laboratoire (2025–2030) est soutenu par un [projet financé par les IRSC](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=fr) portant sur l’inférence de l’ascendance génomique à partir des données de séquençage, la détection de synténie à grande échelle entre de multiples génomes et le développement d’outils de visualisation interactive pour la médecine de précision.
 
 We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
 
-Through funding from Agriculture and Agri-Food Canada's AgriScience Program (2025–2028), our lab is also developing antimicrobial peptide technologies to address antimicrobial resistance in poultry production.
+Through funding from Agriculture and Agri-Food Canada's AgriScience Program (2025–2028), our lab is also developing antimicrobial peptide technologies to address antimicrobial resistance in poultry production. Grâce au financement du Programme Agri-science d’Agriculture et Agroalimentaire Canada (2025–2028), notre laboratoire développe également des technologies basées sur des peptides antimicrobiens afin de lutter contre la résistance aux antimicrobiens dans la production avicole.
 
 [![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)
 <br>
@@ -20,9 +24,6 @@ Through funding from Agriculture and Agri-Food Canada's AgriScience Program (202
 <a href="https://agriculture.canada.ca/en">
   <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:400px; height:auto;">
 </a>
-
-
-Below is an overview of our key research activities.
 
 #### **Fundamental Bioinformatics: Algorithms and Data Structures**
 
