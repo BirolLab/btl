@@ -11,9 +11,8 @@ The lab's current flagship research program (2025–2030) is supported through a
 
 We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
 
-
-<br>
 [![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)
+<br>
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 <br>
 
