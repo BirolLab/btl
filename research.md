@@ -18,7 +18,7 @@ Through funding from Agriculture and Agri-Food Canada's AgriScience Program (202
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 <br>
 <a href="https://agriculture.canada.ca/en">
-  <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:100px; height:auto;">
+  <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:250px; height:auto;">
 </a>
 
 
@@ -31,7 +31,7 @@ Bioinformatics is a *big data* science. With the continual improvements in high-
 
 #### **Genome, Transcriptome and Epigenome Assembly and Analysis**
 
-The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome, transcriptome and epigenome of a species – *de novo* assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS](https://doi.org/10.1101/gr.089532.108)/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/birollab) for [all steps of the assembly workflow](https://www.birollab.ca/resources), including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
+The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome, transcriptome and epigenomes of a species – *de novo* assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS](https://doi.org/10.1101/gr.089532.108)/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/birollab) for [all steps of the assembly workflow](https://www.birollab.ca/resources), including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
 
 
 #### **Comparative Genomics**
