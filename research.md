@@ -15,15 +15,10 @@ The lab's current flagship research program (2025–2030) is supported through a
 
 We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
 
-Through funding from Agriculture and Agri-Food Canada's AgriScience Program (2025–2028), our lab is also developing antimicrobial peptide technologies to address antimicrobial resistance in poultry production. Grâce au financement du Programme Agri-science d’Agriculture et Agroalimentaire Canada (2025–2028), notre laboratoire développe également des technologies basées sur des peptides antimicrobiens afin de lutter contre la résistance aux antimicrobiens dans la production avicole.
-
 [![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)
 <br>
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 <br>
-<a href="https://agriculture.canada.ca/en">
-  <img src="assets/logos/aafclogo.png" alt="Agriculture and Agri-Food Canada" style="max-width:400px; height:auto;">
-</a>
 
 #### **Fundamental Bioinformatics: Algorithms and Data Structures**
 
