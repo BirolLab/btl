@@ -11,10 +11,13 @@ The lab's current flagship research program (2025–2030) is supported through a
 
 We currently receive additional funding from NSERC. Le laboratoire bénéficie également d'un financement du Conseil de recherches en sciences naturelles et en génie du Canada (CRSNG). 
 
+Through funding from Agriculture and Agri-Food Canada's AgriScience Program (2025–2028), our lab is also developing antimicrobial peptide technologies to address antimicrobial resistance in poultry production.
+
 [![](/assets/logos/cihr-logo.png)](https://webapps.cihr-irsc.gc.ca/decisions/p/project_details.html?applId=524284&lang=en)
 <br>
 [![](assets/logos/nserc-logo.png)](https://www.nserc-crsng.gc.ca/)
 <br>
+[![](assets/logos/aafclogo.png)](https://agriculture.canada.ca/en)
 
 
 
@@ -25,9 +28,9 @@ Below is an overview of our key research activities.
 Bioinformatics is a *big data* science. With the continual improvements in high-throughput DNA and RNA sequencing, scalable algorithms and data structures are essential to underpin the bioinformatics tools needed to analyze this immense data. To support and facilitate the development of these bioinformatics tools, we develop advanced, efficient data structures, [common code libraries](https://github.com/birollab/btllib) and algorithms for storing, hashing and processing ‘omics data.  
 
 
-#### **Genome and Transcriptome Assembly and Analysis**
+#### **Genome, Transcriptome and Epigenome Assembly and Analysis**
 
-The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome and transcriptome of a species – *de novo* assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS](https://doi.org/10.1101/gr.089532.108)/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/birollab) for [all steps of the assembly workflow](https://www.birollab.ca/resources), including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
+The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome, transcriptome and epigenome of a species – *de novo* assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS](https://doi.org/10.1101/gr.089532.108)/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/birollab) for [all steps of the assembly workflow](https://www.birollab.ca/resources), including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
 
 
 #### **Comparative Genomics**
@@ -51,7 +54,7 @@ Our ancestry research is closely integrated with our work in comparative genomic
 
 #### **Antimicrobial Research & Technology**
 
-Bacteria can rapidly evolve to develop resistance to antibiotics, presenting a growing and very dangerous problem. In a “post-antibiotic era”, bacterial diseases would once again be untreatable, and many standard treatments, including surgical operations, could become unusable. To boost the search for new treatment options, in the collaborative [PeptAid project](https://genomecanada.ca/project/peptaid-antimicrobial-peptides-replace-antibiotics-farm-veterinary-practice/), we are focusing on short proteins called antimicrobial peptides (AMPs), which are produced naturally by various animal and plant species. These host defence proteins can protect against infection, or reduce the harm caused by an existing infection.
+Bacteria can rapidly evolve to develop resistance to antibiotics, presenting a growing and very dangerous problem. In a “post-antibiotic era”, bacterial diseases would once again be untreatable, and many standard treatments, including surgical operations, could become unusable. To boost the search for new treatment options, we focus on short proteins called antimicrobial peptides (AMPs), which are produced naturally by various animal and plant species. These host defence proteins can protect against infection, or reduce the harm caused by an existing infection.
 
 
 #### **Environmental Genomics**
