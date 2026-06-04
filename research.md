@@ -3,7 +3,9 @@ layout: page
 title: Research 
 ---
 
-We are the Birol Labs, a group invested in genome research. The lab develops computational technologies that enable the analysis of genomic data at unprecedented scale and resolution. Our research lies at the intersection of biology, computer science, and artificial intelligence, where we create algorithms, software, and analytical frameworks for genome assembly, comparative genomics, ancestry inference, population genetics, and clinical genomics.
+We are the Birol Labs, a group invested in genome research. Our informatics lab develops computational technologies that enable the analysis of genomic data at unprecedented scale and resolution, while our wet lab explores novel biologics and host defence molecules to address antimicrobial resistance and infectious disease.
+
+Our research lies at the intersection of biology, computer science, and artificial intelligence, where we create algorithms, software, and analytical frameworks for genome assembly, comparative genomics, ancestry inference, population genetics, and clinical genomics.
 
 By transforming massive sequencing datasets into biological knowledge, we seek to advance our understanding of genome structure, evolution, diversity, and disease. Our work supports a wide range of applications, from biodiversity monitoring and forest genomics to precision medicine and the development of ancestry-aware genomic technologies. Through both methodological innovation and collaborative research, we aim to expand the capabilities of modern genomics and make advanced genomic analyses accessible to the broader scientific community.
 

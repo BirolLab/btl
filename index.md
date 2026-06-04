@@ -17,7 +17,7 @@ feature_link: https://warrenlr.github.io/
 <article class="article  article--page  content  typeset">
 <div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
 <h2>About</h2>
-<p>Together with Inanc Birol, PhD at the <a href="http://www.bccrc.ca/">BC Cancer Research Institute</a> in Vancouver Canada, we conduct antimicrobial, bioinformatics and genomics research. <a href="http://www.birollab.ca/resources">We also develop novel algorithms, data structures and genome analysis software</a> and offer solutions for (1) antimicrobial peptide (AMP) predictions, (2) <i>de novo</i> whole-genome (DNA) sequence assembly, (3) genetic ancestry analysis and (4) comparative genomics analysis. Our bioinformatics technologies, <a href="https://github.com/BirolLab">available on GitHub</a>, find applications in life sciences and are integral to our <a href="http://www.birollab.ca/research">research program</a>.</p>
+<p>Together with Inanc Birol, PhD at the <a href="http://www.bccrc.ca/">BC Cancer Research Institute</a> in Vancouver Canada, we conduct antimicrobial, bioinformatics and genomics research. <a href="http://www.birollab.ca/resources">We also develop novel algorithms, data structures and genome analysis software</a> and offer solutions for antimicrobial peptide (AMP) predictions, <i>de novo</i> whole-genome (DNA) sequence assembly, genetic ancestry analysis and comparative genomics analysis. Our bioinformatics technologies, <a href="https://github.com/BirolLab">available on GitHub</a>, find applications in life sciences and are integral to our <a href="http://www.birollab.ca/research">research program</a>.</p>
 </div>
 
 <div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
