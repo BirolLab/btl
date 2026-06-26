@@ -4,7 +4,7 @@ title: Gallery
 permalink: /gallery/
 ---
 
-Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
 <style>
 
@@ -12,18 +12,18 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
     margin: 2.5rem 0;
 }
 
-.gallery-section h3 {
+.gallery-section h2 {
     margin-bottom: 1.2rem;
-}
-
-.gallery figure {
-    margin: 0;
 }
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.5rem;
+}
+
+.gallery figure {
+    margin: 0;
 }
 
 .gallery figure img {
@@ -45,7 +45,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 <div class="gallery-section">
 
-<h3>Lab Group &amp; Social Events</h3>
+<h2>Lab Group &amp; Social Events</h2>
 
 <div class="gallery">
 
@@ -118,7 +118,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 <div class="gallery-section">
 
-<h3>Conferences &amp; Workshops</h3>
+<h2>Conferences &amp; Workshops</h2>
 
 <div class="gallery">
 
