@@ -16,14 +16,14 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
     margin-bottom: 1.2rem;
 }
 
-.gallery figure {
-    margin: 0;
-}
-
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.5rem;
+}
+
+.gallery figure {
+    margin: 0;
 }
 
 .gallery figure img {
