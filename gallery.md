@@ -12,6 +12,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 .gallery-section h3 {
     margin-bottom: 1.2rem;
+    text-align: center;
 }
 
 .gallery {
