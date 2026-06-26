@@ -18,7 +18,7 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
     gap: 1.8rem;
 }
 
