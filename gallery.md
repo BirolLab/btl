@@ -2,46 +2,12 @@
 layout: page
 title: Gallery
 permalink: /gallery/
+body_class: gallery-page
 ---
 
-Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-<style>
-
-.gallery-section {
-    margin: 2.5rem 0;
-}
-
-.gallery-section h2 {
-    margin-bottom: 1.2rem;
-}
-
-.gallery {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-}
-
-.gallery figure {
-    margin: 0;
-}
-
-.gallery figure img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-}
-
-.gallery figcaption {
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: 0.9em;
-    color: #666;
-}
-
-</style>
+<div class="gallery-page">
 
 <div class="gallery-section">
 
