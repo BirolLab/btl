@@ -6,57 +6,7 @@ permalink: /gallery/
 
 Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-<style>
 
-.gallery-section {
-    margin: 2.5rem 0;
-}
-
-.gallery-section h2 {
-    margin-bottom: 1.2rem;
-}
-
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 1.8rem;
-}
-
-.gallery figure {
-    margin: 0;
-}
-
-.gallery figure img {
-    width: 100%;
-    display: block;
-    border: 1px solid #dddddd;
-    border-radius: 6px;
-    transition: transform 0.2s ease;
-}
-
-.gallery figure img:hover {
-    transform: scale(1.02);
-}
-
-.gallery figcaption {
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: 0.9em;
-    color: #666;
-}
-
-article.article--page {
-    display: block;
-    width: 100%;
-    float: none;
-    clear: both;
-}
-
-.gallery-section {
-    display: flow-root;
-}
-
-</style>
 
 <div class="gallery-section">
 
