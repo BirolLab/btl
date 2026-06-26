@@ -3,9 +3,8 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
-<br>
+
 Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
-</br>
 
 <style>
 
@@ -19,7 +18,7 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(445px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
     justify-content: center;
     gap: 1.8rem;
 }
@@ -56,6 +55,11 @@ article.article--page {
 
 .gallery-section {
     display: flow-root;
+}
+
+.gallery-page {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
 }
 
 </style>
