@@ -1,55 +1,52 @@
 ---
-layout: page
 title: Gallery
+layout: page
 permalink: /gallery/
 ---
+
+# Lab Gallery
 
 Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
 <style>
 
-.gallery-section {
-    margin: 2.5rem 0;
+.gallery-section{
+    margin-top:2.5em;
 }
 
-.gallery-section h2 {
-    margin-bottom: 1.2rem;
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+    gap:28px;
 }
 
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 1.8rem;
+.gallery figure{
+    margin:0;
 }
 
-.gallery figure {
-    margin: 0;
+.gallery img{
+    width:100%;
+    border-radius:6px;
+    box-shadow:0 3px 10px rgba(0,0,0,.15);
+    transition:transform .2s ease;
 }
 
-.gallery figure img {
-    width: 100%;
-    display: block;
-    border: 1px solid #dddddd;
-    border-radius: 6px;
-    transition: transform 0.2s ease;
+.gallery img:hover{
+    transform:scale(1.02);
 }
 
-.gallery figure img:hover {
-    transform: scale(1.02);
-}
-
-.gallery figcaption {
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: 0.9em;
-    color: #666;
+.gallery figcaption{
+    text-align:center;
+    font-size:0.9em;
+    margin-top:8px;
+    color:#555;
 }
 
 </style>
 
 <div class="gallery-section">
 
-<h2>Lab Group &amp; Social Events</h2>
+## Lab Group & Social Events
 
 <div class="gallery">
 
@@ -62,7 +59,7 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 <figure>
 <a href="/assets/gallery/2019-lab-group-fall.jpg">
-<img src="/assets/gallery/2019-lab-group-fall.jpg" alt="Lab Group 2019">
+<img src="/assets/gallery/2019-lab-group-fall.jpg" alt="Lab Group 2020">
 </a>
 <figcaption>Lab Group &bull; October 2019</figcaption>
 </figure>
@@ -76,14 +73,14 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 <figure>
 <a href="/assets/gallery/2022-lab-social1.jpg">
-<img src="/assets/gallery/2022-lab-social1.jpg" alt="Lab Social">
+<img src="/assets/gallery/2022-lab-social1.jpg" alt="Lab Social 2022">
 </a>
 <figcaption>Lab Social &bull; January 2022</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2022-lab-social2.jpg">
-<img src="/assets/gallery/2022-lab-social2.jpg" alt="Lab Social">
+<img src="/assets/gallery/2022-lab-social2.jpg" alt="Lab Social 2022">
 </a>
 <figcaption>Lab Social &bull; September 2022</figcaption>
 </figure>
@@ -122,7 +119,7 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 <div class="gallery-section">
 
-<h2>Conferences &amp; Workshops</h2>
+## Conferences & Workshops
 
 <div class="gallery">
 
@@ -177,7 +174,7 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 <figure>
 <a href="/assets/gallery/2015-ISMBhitseq-dublin.jpg">
-<img src="/assets/gallery/2015-ISMBhitseq-dublin.jpg" alt="HiTSeq Workshop">
+<img src="/assets/gallery/2015-ISMBhitseq-dublin.jpg" alt="ISMB HiTSeq Workshop">
 </a>
 <figcaption>HiTSeq Workshop &bull; ISMB 2015, Dublin</figcaption>
 </figure>
@@ -185,3 +182,4 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 </div>
 
 </div>
+
