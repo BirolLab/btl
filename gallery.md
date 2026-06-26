@@ -6,7 +6,7 @@ permalink: /gallery/
 
 Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-
+<link rel="stylesheet" href="/assets/gallery.css">
 
 <div class="gallery-section">
 
