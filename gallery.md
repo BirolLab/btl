@@ -1,18 +1,17 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery
 ---
 
 Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-<div class="gallery-page">
+<div>
 
-<div class="gallery-section">
+<div>
 
 <h3>Lab Group &amp; Social Events</h3>
 
-<div class="gallery">
+<div>
 
 <figure>
 <a href="/assets/gallery/2022-lab-group.png">
@@ -81,11 +80,11 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 </div>
 
-<div class="gallery-section">
+<div>
 
 <h3>Conferences &amp; Workshops</h3>
 
-<div class="gallery">
+<div>
 
 <figure>
 <a href="/assets/gallery/2023-recomb-istanbul.jpg">
