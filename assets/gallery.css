@@ -48,3 +48,13 @@
     font-size: 0.9em;
     color: #666;
 }
+
+article.article--page {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+}
+
+main.container {
+    display: block !important;
+}
