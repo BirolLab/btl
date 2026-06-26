@@ -1,4 +1,4 @@
-transparent.png
+ntstat-logo.png
 ntStat
 https://github.com/birollab/ntStat
 
