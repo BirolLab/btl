@@ -45,9 +45,18 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
     color: #666;
 }
 
-</style>
+article.article--page {
+    display: block;
+    width: 100%;
+    float: none;
+    clear: both;
+}
 
-<div class="gallery-content">
+.gallery-section {
+    display: flow-root;
+}
+
+</style>
 
 <div class="gallery-section">
 
@@ -183,8 +192,6 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 </a>
 <figcaption>HiTSeq Workshop &bull; ISMB 2015, Dublin</figcaption>
 </figure>
-
-</div>
 
 </div>
 
