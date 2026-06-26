@@ -40,6 +40,27 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
     font-size: 0.9em;
     color: #666;
 }
+
+.gallery-page .gallery figure {
+    margin: 0;
+}
+
+.gallery-page .gallery figure img {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.gallery-page .gallery figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
 </style>
 
 <!-- ===================== -->
