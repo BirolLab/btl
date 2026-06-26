@@ -23,9 +23,10 @@ navigation_header:
   Publications: /publications
   Research: /research
   Resources: /resources
+  Gallery: /gallery
   News: /news
-  Contact: /contact
-  
+  Contact: /contact 
+ 
 navigation_footer: 
     Theme: "https://github.com/daviddarnes/alembic"
 
