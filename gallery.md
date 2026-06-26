@@ -1,16 +1,51 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery
+permalink: /gallery/
 ---
 
 Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-<div class="gallery-page">
+<style>
+
+.gallery-section {
+    margin: 2.5rem 0;
+}
+
+.gallery-section h3 {
+    margin-bottom: 1.2rem;
+}
+
+.gallery figure {
+    margin: 0;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.gallery figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+}
+
+.gallery figcaption {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
+</style>
 
 <div class="gallery-section">
 
-<h2>Lab Group &amp; Social Events</h2>
+<h3>Lab Group &amp; Social Events</h3>
 
 <div class="gallery">
 
@@ -83,7 +118,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 <div class="gallery-section">
 
-<h2>Conferences &amp; Workshops</h2>
+<h3>Conferences &amp; Workshops</h3>
 
 <div class="gallery">
 
