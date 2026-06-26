@@ -6,42 +6,7 @@ permalink: /gallery
 
 Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
 
-<style>
-
-.gallery-section {
-    margin: 2.5rem 0;
-}
-
-.gallery-section h3 {
-    margin-bottom: 1.2rem;
-}
-
-.gallery figure {
-    margin: 0;
-}
-
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.5rem;
-}
-
-.gallery figure img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-}
-
-.gallery figcaption {
-    margin-top: 0.5rem;
-    text-align: center;
-    font-size: 0.9em;
-    color: #666;
-}
-
-</style>
+<div class="gallery-page">
 
 <div class="gallery-section">
 
@@ -53,35 +18,35 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 <a href="/assets/gallery/2022-lab-group.png">
 <img src="/assets/gallery/2022-lab-group.png" alt="Lab Group 2022">
 </a>
-<figcaption>Lab Members &bull; May 2022</figcaption>
+<figcaption>Lab Group &bull; May 2022</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2019-lab-group-fall.jpg">
 <img src="/assets/gallery/2019-lab-group-fall.jpg" alt="Lab Group 2019">
 </a>
-<figcaption>Lab Members &bull; October 2019</figcaption>
+<figcaption>Lab Group &bull; October 2019</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2019-lab-group.jpg">
 <img src="/assets/gallery/2019-lab-group.jpg" alt="Lab Group 2019">
 </a>
-<figcaption>Lab Members &bull; February 2019</figcaption>
+<figcaption>Lab Group &bull; February 2019</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2022-lab-social1.jpg">
 <img src="/assets/gallery/2022-lab-social1.jpg" alt="Lab Social">
 </a>
-<figcaption>Social &bull; January 2022</figcaption>
+<figcaption>Lab Social &bull; January 2022</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2022-lab-social2.jpg">
 <img src="/assets/gallery/2022-lab-social2.jpg" alt="Lab Social">
 </a>
-<figcaption>Social &bull; September 2022</figcaption>
+<figcaption>Lab Social &bull; September 2022</figcaption>
 </figure>
 
 <figure>
@@ -95,21 +60,21 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 <a href="/assets/gallery/2018-lab-hike.jpg">
 <img src="/assets/gallery/2018-lab-hike.jpg" alt="Lab Hike">
 </a>
-<figcaption>Eagles Bluff Hike (BC) &bull; July 2018</figcaption>
+<figcaption>Lab Hike &bull; July 2018</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2017-lab-social.jpg">
 <img src="/assets/gallery/2017-lab-social.jpg" alt="Lab Social">
 </a>
-<figcaption>Social &bull; May 2017</figcaption>
+<figcaption>Lab Social &bull; May 2017</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2015-lab-social.jpg">
 <img src="/assets/gallery/2015-lab-social.jpg" alt="Lab Social">
 </a>
-<figcaption>Social &bull; June 2015</figcaption>
+<figcaption>Lab Social &bull; June 2015</figcaption>
 </figure>
 
 </div>
