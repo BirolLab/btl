@@ -3,8 +3,9 @@ layout: page
 title: Gallery
 permalink: /gallery/
 ---
-
+<br>
 Photographs from the Bioinformatics Technologies Lab over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+</br>
 
 <style>
 
