@@ -3,31 +3,34 @@ layout: page
 title: Gallery
 ---
 
-Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+<div class="gallery-page">
 
+<p>
+Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+</p>
 
 <style>
-.gallery-section {
+.gallery-page .gallery-section {
     margin: 2.5rem 0;
 }
 
-.gallery-section h3 {
+.gallery-page .gallery-section h3 {
     margin-bottom: 1.2rem;
     text-align: center;
 }
 
-.gallery {
+.gallery-page .gallery {
     display: grid;
     grid-template-columns: 1fr;
     gap: 1.5rem;
     justify-items: center;
 }
 
-.gallery figure {
+.gallery-page .gallery figure {
     margin: 0;
 }
 
-.gallery figure img {
+.gallery-page .gallery figure img {
     width: 100%;
     max-width: 700px;
     height: auto;
@@ -36,14 +39,13 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
     border-radius: 6px;
 }
 
-.gallery figcaption {
+.gallery-page .gallery figcaption {
     margin-top: 0.5rem;
     text-align: center;
     font-size: 0.9em;
     color: #666;
 }
 </style>
-
 
 <!-- ===================== -->
 <!-- LAB GROUP SECTION -->
@@ -188,4 +190,6 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 </figure>
 
 </div>
+</div>
+
 </div>
