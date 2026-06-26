@@ -16,31 +16,22 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
     margin-bottom: 1.2rem;
 }
 
-.gallery-section {
-    width: 100%;
-    max-width: none;
-}
-
 .gallery {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr;
     gap: 1.5rem;
 }
 
-@media (max-width: 800px) {
-    .gallery {
-        grid-template-columns: 1fr;
-    }
+.gallery figure {
+    margin: 0;
 }
 
 .gallery figure img {
     width: 100%;
+    height: auto;
     display: block;
-}
-
-
-.gallery figure img:hover {
-    transform: scale(1.02);
+    border: 1px solid #ddd;
+    border-radius: 6px;
 }
 
 .gallery figcaption {
@@ -48,21 +39,6 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
     text-align: center;
     font-size: 0.9em;
     color: #666;
-}
-
-article.article--page {
-    display: block;
-    width: 100%;
-    float: none;
-    clear: both;
-}
-
-.gallery-section {
-    display: flow-root;
-}
-
-.container {
-    max-width: 1300px;
 }
 
 </style>
