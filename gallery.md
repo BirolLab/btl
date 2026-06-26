@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Gallery
-permalink: /gallery/
-body_class: gallery-page
+permalink: /gallery
 ---
 
 Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
