@@ -16,20 +16,20 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
     margin-bottom: 1.2rem;
 }
 
-.gallery-page {
-    width: 100vw;
-    margin-left: calc(50% - 50vw);
+.gallery-section {
+    width: 100%;
+    max-width: none;
 }
 
 .gallery {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.5rem;
 }
 
-@media (min-width: 900px) {
+@media (max-width: 800px) {
     .gallery {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr;
     }
 }
 
@@ -61,6 +61,9 @@ article.article--page {
     display: flow-root;
 }
 
+.container {
+    max-width: 1300px;
+}
 
 </style>
 
