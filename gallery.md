@@ -8,6 +8,8 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 <link rel="stylesheet" href="/assets/gallery.css">
 
+<div class="gallery-page">
+
 <div class="gallery-section">
 
 <h2>Lab Group &amp; Social Events</h2>
@@ -147,3 +149,4 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 
 </div>
 
+</div>
