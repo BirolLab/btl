@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Gallery
 layout: page
@@ -183,5 +182,4 @@ Photographs from the Bioinformatics Technologies Lab over the years, including l
 </div>
 
 </div>
-```
 
