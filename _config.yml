@@ -19,13 +19,13 @@ remote_theme: daviddarnes/alembic@main
 
 navigation_header:
   Home: /
-  Members: /members/
-  Publications: /publications/
-  Research: /research/
-  Resources: /resources/
-  Gallery: /gallery/
-  News: /news/
-  Contact: /contact/ 
+  Members: /members
+  Publications: /publications
+  Research: /research
+  Resources: /resources
+  Gallery: /gallery
+  News: /news
+  Contact: /contact
  
 navigation_footer: 
     Theme: "https://github.com/daviddarnes/alembic"
