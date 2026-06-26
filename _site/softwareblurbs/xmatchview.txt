@@ -1,7 +1,0 @@
-xmatchviewlogo.png
-xmatchview
-https://github.com/warrenlr/xmatchview
-
-
-
-Genome sequence alignment visualization

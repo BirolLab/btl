@@ -1,7 +1,0 @@
-arcslogo.png
-ARCS
-https://github.com/bcgsc/arcs/tree/binomialx2
-brew install brewsci/bio/arcs
-
-
-Genome scaffolder by linked read alignment
