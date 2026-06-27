@@ -41,7 +41,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 .gallery-page .gallery figure img {
     width: 100%;
-    max-width: 700px;
+    max-width: 650px;
     height: auto;
     display: block;
     border: 1px solid #ddd;
