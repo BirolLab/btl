@@ -10,7 +10,6 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 </p>
 
 <style>
-
 .gallery-page .gallery-section {
     margin: 2.5rem 0;
 }
@@ -31,7 +30,7 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
     margin: 0;
     overflow: hidden;
     border-radius: 6px;
-    transition: transform .25s ease;
+    transition: transform 0.25s ease;
 }
 
 .gallery-page .gallery a {
@@ -47,12 +46,12 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
     display: block;
     border: 1px solid #ddd;
     border-radius: 6px;
-    background: white;
+    background: #fff;
 
     transition:
-        transform .25s ease,
-        box-shadow .25s ease,
-        border-color .25s ease;
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
 }
 
 .gallery-page .gallery figure:hover {
@@ -61,90 +60,27 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 
 .gallery-page .gallery figure:hover img {
     transform: scale(1.03);
-    box-shadow: 0 8px 20px rgba(0,0,0,.18);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.18);
     border-color: #bbb;
 }
 
 .gallery-page .gallery figcaption {
-    margin-top: .6rem;
+    margin-top: 0.6rem;
     text-align: center;
-    font-size: .9em;
+    font-size: 0.9em;
     color: #666;
-    transition: color .25s ease;
+    transition: color 0.25s ease;
 }
 
 .gallery-page .gallery figure:hover figcaption {
     color: #222;
 }
 
+/* Nice keyboard accessibility */
 .gallery-page .gallery a:focus img {
     outline: none;
-    box-shadow: 0 0 0 3px rgba(0,120,255,.35);
+    box-shadow: 0 0 0 3px rgba(0,120,255,0.35);
 }
-
-/* ===========================
-   LIGHTBOX
-   =========================== */
-
-#lightbox {
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,.9);
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    opacity: 0;
-    visibility: hidden;
-
-    transition: opacity .25s ease;
-    z-index: 9999;
-}
-
-#lightbox.show {
-    opacity: 1;
-    visibility: visible;
-}
-
-#lightbox img {
-    max-width: 92vw;
-    max-height: 92vh;
-
-    border-radius: 6px;
-    box-shadow: 0 15px 40px rgba(0,0,0,.45);
-
-    cursor: zoom-out;
-
-    animation: zoomIn .25s ease;
-}
-
-#lightbox-close {
-    position: absolute;
-    top: 20px;
-    right: 30px;
-
-    font-size: 40px;
-    color: white;
-
-    cursor: pointer;
-    user-select: none;
-}
-
-@keyframes zoomIn {
-
-    from {
-        transform: scale(.92);
-        opacity: 0;
-    }
-
-    to {
-        transform: scale(1);
-        opacity: 1;
-    }
-
-}
-
 </style>
 
 <!-- ===================== -->
@@ -293,78 +229,3 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 </div>
 
 </div>
-
-<!-- ===========================
-     LIGHTBOX OVERLAY
-     =========================== -->
-
-<div id="lightbox">
-
-    <span id="lightbox-close">&times;</span>
-
-    <img id="lightbox-image" src="" alt="Expanded image">
-
-</div>
-
-<script>
-
-document.addEventListener("DOMContentLoaded", function () {
-
-    const lightbox = document.getElementById("lightbox");
-    const lightboxImg = document.getElementById("lightbox-image");
-    const closeBtn = document.getElementById("lightbox-close");
-
-    // Attach to every gallery image automatically
-    document.querySelectorAll(".gallery-page a").forEach(function(link) {
-
-        const href = link.getAttribute("href") || "";
-
-        if (!href.match(/\.(png|jpg|jpeg|gif|webp)$/i))
-            return;
-
-        link.addEventListener("click", function(e) {
-
-            e.preventDefault();
-
-            lightboxImg.src = href;
-            lightbox.classList.add("show");
-            document.body.style.overflow = "hidden";
-
-        });
-
-    });
-
-    function closeLightbox() {
-
-        lightbox.classList.remove("show");
-
-        document.body.style.overflow = "";
-
-        // remove image after fade-out
-        setTimeout(function() {
-            lightboxImg.src = "";
-        }, 250);
-
-    }
-
-    closeBtn.addEventListener("click", closeLightbox);
-
-    lightbox.addEventListener("click", function(e) {
-
-        if (e.target === lightbox) {
-            closeLightbox();
-        }
-
-    });
-
-    document.addEventListener("keydown", function(e) {
-
-        if (e.key === "Escape") {
-            closeLightbox();
-        }
-
-    });
-
-});
-
-</script>
