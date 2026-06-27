@@ -22,28 +22,64 @@ Photographs from the Birol Labs over the years, including lab gatherings, confer
 .gallery-page .gallery {
     display: grid;
     grid-template-columns: 1fr;
-    gap: 1.5rem;
+    gap: 1.75rem;
     justify-items: center;
 }
 
 .gallery-page .gallery figure {
     margin: 0;
+    overflow: hidden;
+    border-radius: 6px;
+    transition: transform 0.25s ease;
+}
+
+.gallery-page .gallery a {
+    display: block;
+    cursor: zoom-in;
+    text-decoration: none;
 }
 
 .gallery-page .gallery figure img {
     width: 100%;
-    max-width: 700px;
+    max-width: 650px;
     height: auto;
     display: block;
     border: 1px solid #ddd;
     border-radius: 6px;
+    background: #fff;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.gallery-page .gallery figure:hover {
+    transform: translateY(-4px);
+}
+
+.gallery-page .gallery figure:hover img {
+    transform: scale(1.03);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.18);
+    border-color: #bbb;
 }
 
 .gallery-page .gallery figcaption {
-    margin-top: 0.5rem;
+    margin-top: 0.6rem;
     text-align: center;
     font-size: 0.9em;
     color: #666;
+    transition: color 0.25s ease;
+}
+
+.gallery-page .gallery figure:hover figcaption {
+    color: #222;
+}
+
+/* Nice keyboard accessibility */
+.gallery-page .gallery a:focus img {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0,120,255,0.35);
 }
 </style>
 
