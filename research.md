@@ -51,8 +51,8 @@ In addition to ancestry inference, we develop statistical and [visualization fra
 <div style="border:1px solid #ddd;border-radius:6px;overflow:hidden;">
 <iframe
     src="/viz/korus7Ehard.report.html"
-    width="100%"
-    height="550"
+    width="50%"
+    height="300"
     style="border:none;">
 </iframe>
 </div>
