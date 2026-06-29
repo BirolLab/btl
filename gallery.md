@@ -6,7 +6,7 @@ title: Gallery
 <div class="gallery-page">
 
 <p>
-Photographs from the Birol Labs over the years, including lab gatherings, conferences, workshops, and other memorable moments.
+Photographs from the lab over the years, including gatherings, conferences, workshops, and other memorable moments.
 </p>
 
 <style>
