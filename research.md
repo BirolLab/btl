@@ -50,7 +50,7 @@ In addition to ancestry inference, we develop statistical and [visualization fra
 
 <div style="max-width:900px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
     <iframe
-        src="/viz/korus7Ehard.report.html"
+        src="/viz/TyrHardEk45.report.html"
         style="
             width:100%;
             height:360px;
