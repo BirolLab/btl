@@ -46,7 +46,7 @@ Human genomes contain a rich record of ancestral origins, demographic history, a
 
 We develop computational methods for ancestry inference directly from genomic sequencing data. [Our research](https://doi.org/10.1093/bioadv/vbaf287) focuses on creating scalable, accurate, and platform-independent approaches that can characterize both global and local ancestry across the genome. These methods. which include the [ntRoot framework](https://github.com/birollab/ntroot) are designed to work with diverse populations and complex admixture patterns, providing a more complete representation of genetic diversity than traditional categorical ancestry assignments.
 
-In addition to ancestry inference, we develop statistical and [visualization frameworks](https://www.birollab.ca/viz/korus7Ehard.report.html) that help researchers and clinicians interpret ancestry-related patterns of genetic variation. These tools support population genetic studies, facilitate ancestry-aware genomic analyses, and improve the selection of reference genomes and comparative resources for downstream analyses. By making these technologies openly available, we aim to advance equitable and inclusive genomics research and help ensure that genomic medicine benefits individuals from all ancestral backgrounds.
+In addition to ancestry inference, we develop statistical and [visualization frameworks](/viz/TyrHardEk45.report.html) that help researchers and clinicians interpret ancestry-related patterns of genetic variation. These tools support population genetic studies, facilitate ancestry-aware genomic analyses, and improve the selection of reference genomes and comparative resources for downstream analyses. By making these technologies openly available, we aim to advance equitable and inclusive genomics research and help ensure that genomic medicine benefits individuals from all ancestral backgrounds.
 
 <div style="max-width:900px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
     <iframe
@@ -60,7 +60,7 @@ In addition to ancestry inference, we develop statistical and [visualization fra
     </iframe>
 </div>
 <p style="text-align:center; margin-top:0.5rem;">
-<a href="/viz/korus7Ehard.report.html" target="_blank">Open interactive visualization in a new tab</a>
+<a href="/viz/TyrHardEk45.report.html" target="_blank">Open interactive visualization in a new tab</a>
 </p>
 
 Our ancestry research is closely integrated with our work in comparative genomics and multi-genome analysis. Together, these efforts provide a foundation for understanding how genomic variation is distributed across populations, how genome structure differs among individuals, and how this diversity influences human health and disease.
