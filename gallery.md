@@ -157,23 +157,32 @@ Photographs from the lab over the years, including gatherings, conferences, work
 
 <div class="gallery">
 
+
+<figure>
+<a href="/assets/gallery/2026-lab-group.png">
+<img src="/assets/gallery/2026-lab-group.png" alt="Lab Members 2026">
+</a>
+<figcaption>Lab Members &bull; July 2026</figcaption>
+</figure>
+
+
 <figure>
 <a href="/assets/gallery/2022-lab-group.png">
-<img src="/assets/gallery/2022-lab-group.png" alt="Lab Group 2022">
+<img src="/assets/gallery/2022-lab-group.png" alt="Lab Members 2022">
 </a>
 <figcaption>Lab Members &bull; May 2022</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2019-lab-group-fall.jpg">
-<img src="/assets/gallery/2019-lab-group-fall.jpg" alt="Lab Group 2019">
+<img src="/assets/gallery/2019-lab-group-fall.jpg" alt="Lab Members 2019">
 </a>
 <figcaption>Lab Members &bull; October 2019</figcaption>
 </figure>
 
 <figure>
 <a href="/assets/gallery/2019-lab-group.jpg">
-<img src="/assets/gallery/2019-lab-group.jpg" alt="Lab Group 2019">
+<img src="/assets/gallery/2019-lab-group.jpg" alt="Lab Members 2019">
 </a>
 <figcaption>Lab Members &bull; February 2019</figcaption>
 </figure>
