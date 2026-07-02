@@ -153,7 +153,7 @@ Photographs from the lab over the years, including gatherings, conferences, work
 
 <div class="gallery-section">
 
-<h3>Lab Group &amp; Social Events</h3>
+<h3>Group Photos &amp; Social Events</h3>
 
 <div class="gallery">
 
