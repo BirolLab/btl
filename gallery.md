@@ -159,8 +159,8 @@ Photographs from the lab over the years, including gatherings, conferences, work
 
 
 <figure>
-<a href="/assets/gallery/2026-lab-group.png">
-<img src="/assets/gallery/2026-lab-group.png" alt="Lab Members 2026">
+<a href="/assets/gallery/2026-lab-group.jpg">
+<img src="/assets/gallery/2026-lab-group.jpg" alt="Lab Members 2026">
 </a>
 <figcaption>Lab Members &bull; July 2026</figcaption>
 </figure>
