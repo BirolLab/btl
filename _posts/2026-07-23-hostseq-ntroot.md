@@ -12,5 +12,5 @@ Rather than relying solely on discrete ancestry assignments, the study integrate
 
 Beyond the biological findings, the study illustrates the scalability of ntRoot for population-scale whole-genome sequencing datasets and highlights the value of combining genome-derived ancestry composition with participant-reported identity to better characterize human diversity in genomic research.
 
-Analysis scripts and additional resources associated with this work have been made available through our [Zenodo record](https://doi.org/10.5281/zenodo.20419679.465) as permitted by the HostSeq data-sharing framework.
+Analysis scripts and additional resources associated with this work have been made available through our [Zenodo record](https://doi.org/10.5281/zenodo.20419679) as permitted by the HostSeq data-sharing framework.
 
