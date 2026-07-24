@@ -4,7 +4,7 @@ title: "New in Genome: Mapping ancestry composition in 10,250 Canadians from the
 category: news
 ---
 
-We are pleased to announce the publication of our latest study, **"Concordance and divergence between self-declared ancestry and genome-derived ancestry composition in 10,250 participants from the HostSeq cohort,"** in **[Genome](https://doi.org/10.1139/gen-2026-0022)**.
+We are pleased to announce the publication of our latest study, [Concordance and divergence between self-declared ancestry and genome-derived ancestry composition in 10,250 participants from the HostSeq cohort](https://doi.org/10.1139/gen-2026-0022), in *Genome*.
 
 Using whole-genome sequencing data from 10,250 participants in the [Canadian HostSeq initiative](https://www.cgen.ca/programs/hostseq), we applied our [ntRoot ancestry inference framework](https://github.com/bcgsc/ntroot) to examine the relationship between self-declared ancestry and genome-derived ancestry composition.
 
