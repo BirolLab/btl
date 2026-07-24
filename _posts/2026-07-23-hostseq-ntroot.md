@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New in *Genome*: Mapping ancestry composition in 10,250 Canadians"
+title: "New in Genome: Mapping ancestry composition in 10,250 Canadians from the HostSeq cohort with ntRoot"
 category: news
 ---
 
