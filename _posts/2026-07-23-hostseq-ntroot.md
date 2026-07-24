@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Genome publishes our HostSeq ancestry analysis using ntRoot"
+title: "New in *Genome*: Mapping ancestry composition in 10,250 Canadians"
 category: news
 ---
 
