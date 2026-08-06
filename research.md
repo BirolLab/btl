@@ -40,6 +40,21 @@ Our lab develops [scalable comparative genomics technologies](https://github.com
 
 A major focus of our current research is the development of efficient algorithms for multi-genome synteny analysis. Traditional approaches often rely on pairwise genome comparisons, limiting their ability to capture complex patterns across large collections of assemblies. We are developing methods that can identify, quantify, and visualize syntenic relationships across hundreds of genomes simultaneously, enabling researchers to explore structural variation and genome evolution at population and species scales. These technologies support applications ranging from evolutionary biology and biodiversity studies to clinical genomics and precision medicine.
 
+<div style="max-width:1500px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
+    <iframe
+        src="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html"
+        style="
+            width:100%;
+            height:360px;
+            border:none;
+            transform: translateY(-1px);
+        ">
+    </iframe>
+</div>
+<p style="text-align:center; margin-top:0.5rem;">
+<a href="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html" target="_blank">Open interactive visualization in a new tab</a>
+</p>
+
 #### **Genomic Ancestry and Population Genomics**
 
 Human genomes contain a rich record of ancestral origins, demographic history, and population relationships. Accurate characterization of genomic ancestry is increasingly important in biomedical research and precision medicine, where ancestry can influence disease risk prediction, variant interpretation, and the selection of appropriate reference genomes for genomic analyses. However, existing methods often struggle with increasingly diverse datasets, admixed populations, and the growing scale of modern sequencing studies.
