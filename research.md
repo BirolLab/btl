@@ -40,7 +40,7 @@ Our lab develops [scalable comparative genomics technologies](https://github.com
 
 A major focus of our current research is the development of efficient algorithms for multi-genome synteny analysis. Traditional approaches often rely on pairwise genome comparisons, limiting their ability to capture complex patterns across large collections of assemblies. We are developing methods that can identify, quantify, and visualize syntenic relationships across hundreds of genomes simultaneously, enabling researchers to explore structural variation and genome evolution at population and species scales. These technologies support applications ranging from evolutionary biology and biodiversity studies to clinical genomics and precision medicine.
 
-<div style="max-width:1500px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
+<div style="max-width:1400px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
     <iframe
         src="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html"
         style="
