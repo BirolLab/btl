@@ -45,7 +45,7 @@ A major focus of our current research is the development of efficient algorithms
         src="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html"
         style="
             width:100%;
-            height:360px;
+            max-height:360px;
             border:none;
             transform: translateY(-1px);
         ">
