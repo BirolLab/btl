@@ -45,13 +45,13 @@ A major focus of our current research is the development of efficient algorithms
         src="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html"
         style="
             width:100%;
-            max-height:360px;
+            height:360px;
             border:none;
             transform: translateY(-1px);
         ">
     </iframe>
 </div>
-<p style="text-align:center; margin-top:0.5rem;">
+<p style="text-align:center; margin-top:0.3rem;">
 <a href="viz/ntsynt-viz.cheilosia_ribbon-plot_tree.html" target="_blank">Open interactive visualization in a new tab</a>
 </p>
 
