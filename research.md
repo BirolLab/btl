@@ -63,7 +63,7 @@ We develop computational methods for ancestry inference directly from genomic se
 
 In addition to ancestry inference, we develop statistical and [visualization frameworks](/viz/ERR3988858-k55-hard-report.html) that help researchers and clinicians interpret ancestry-related patterns of genetic variation. These tools support population genetic studies, facilitate ancestry-aware genomic analyses, and improve the selection of reference genomes and comparative resources for downstream analyses. By making these technologies openly available, we aim to advance equitable and inclusive genomics research and help ensure that genomic medicine benefits individuals from all ancestral backgrounds.
 
-<div style="max-width:1400px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
+<div style="max-width:1000px; margin: 2rem auto; border:1px solid #ddd; border-radius:6px; overflow:hidden;">
     <iframe
         src="/viz/ERR3988858-k55-hard-report.html"
         style="
