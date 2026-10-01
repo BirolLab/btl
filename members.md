@@ -18,10 +18,10 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg"> [Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, UBC directed studies student 2025, graduate student (UBC) 2026-<br>
 
 ### Alumni
+Ivana Sanchez, MSc graduate (UBC) 2024-26<br>
 Anat Yanai, research associate 2020-25<br>
 Readman Chiu, production coordinator 2013-25<br>
 Mercan Deniz, student volunteer 2024, 2025<br>
