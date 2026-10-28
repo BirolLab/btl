@@ -1,0 +1,82 @@
+
+<html>
+<head>
+<title>KORUS Ancestry Predictions : Tyrolean Iceman (Ötzi)</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #ffffff;
+}
+
+/* Overall page title */
+h1 {
+    margin-bottom: 10px;
+}
+
+/* Two-panel layout */
+.container {
+    display: flex;
+    gap: 20px;
+    align-items: stretch;
+    height: calc(100vh - 80px);
+}
+
+/* Each panel fills half width */
+.panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+/* Section titles */
+.panel h2 {
+    margin-top: 0; 
+}
+
+/* Responsive iframe */
+iframe {
+    width: 100%;
+    flex-grow: 1;
+    border: none;
+    border-radius: 6px;
+}
+
+/* Stack vertically on small screens */
+@media (max-width: 900px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    iframe {
+        height: 80vh;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>KORUS Ancestry Predictions : Tyrolean Iceman (&Ouml;tzi)</h1>
+
+<div class="container">
+
+    <div class="panel">
+        <h2>Genome View</h2>
+        <iframe src="Tyrolean_TyrHardKor45.lai.html"></iframe>
+    </div>
+
+    <div class="panel">
+        <h2>Population Context</h2>
+        <iframe src="hardSupervised_k45.pca3d.html"></iframe>
+    </div>
+
+</div>
+
+</body>
+</html>
