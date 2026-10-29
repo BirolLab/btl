@@ -1,0 +1,8 @@
+korus-logo.png
+KORUS
+https://github.com/birollab/korus
+
+
+
+Probabilistic ancestry inference beyond variant calls
+Genome Analysis
