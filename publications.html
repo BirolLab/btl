@@ -20,10 +20,10 @@ title: Publications
 
 </div>
 <p id="pubCount" style="font-size:20px">
-  Publications: <b><i><font color="green">0</font></i></b>
+  <b><i><font color="green"><span id="pubNumber">0</span></font></i></b>&nbsp;records.
 </p>
 
-<p style="font-size:13px">
+<p style="font-size:14px">
   <em>For more details, see our page on
     <a href="https://scholar.google.ca/citations?user=Svk1wjsAAAAJ&hl=en">
       Google Scholar
@@ -61,9 +61,7 @@ function filterPublications(year) {
     }
 
   });
-
-  document.getElementById('pubCount').innerHTML =
-    'Publications: <strong>' + count + '</strong>';
+  document.getElementById('pubNumber').textContent = count;
 
 }
 
