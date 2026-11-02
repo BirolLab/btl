@@ -19,6 +19,9 @@ title: Publications
   </select>
 
 </div>
+<p id="pubCount" style="font-size:13px">
+  Publications: <strong>0</strong>
+</p>
 
 <p style="font-size:13px">
   <em>For more details, see our page on
@@ -42,17 +45,31 @@ function filterPublications(year) {
     '#publication-list p'
   );
 
+  var count = 0;
+
   publications.forEach(function(pub) {
 
     if (year === 'all' || pub.classList.contains(year)) {
+
       pub.style.display = '';
+      count++;
+
     } else {
+
       pub.style.display = 'none';
+
     }
 
   });
 
+  document.getElementById('pubCount').innerHTML =
+    'Publications: <strong>' + count + '</strong>';
+
 }
 
-</script>
+// Initialize count when page loads
+document.addEventListener('DOMContentLoaded', function() {
+  filterPublications('all');
+});
 
+</script>
