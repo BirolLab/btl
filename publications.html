@@ -5,13 +5,17 @@ title: Publications
 
 <style>
 .pub-filter select {
-    border-color: #74C3FE;
+    width: 100%;
+    color: inherit;
+    background-color: rgba(116, 195, 254, 0.6);
+    border: none;
+    border-radius: 0;
+    padding: .6rem 1.2rem;
+    cursor: pointer;
 }
 </style>
 
 <div class="pub-filter">
-
-  <label for="pubYear">Year: </label>
 
   <select id="pubYear" onchange="filterPublications(this.value)">
     <option value="all">All</option>
