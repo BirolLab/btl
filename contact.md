@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 ---
 
-Please [inquire](mailto:inanc.birol@ubc.ca) for internship, CO-OP placement, graduate training and post-doc opportunities.
+Please [inquire](mailto:inanc.birol@ubc.ca) for internship, University Co-Op placement, graduate training and post-doc opportunities.
 
 **Inanc Birol**  
 **BC Cancer Research Institute**  
