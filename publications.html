@@ -5,10 +5,10 @@ title: Publications
 
 <div class="pub-filter">
 
-  <label for="pubYear">Filter publications by year: </label>
+  <label for="pubYear">Filter by year: </label>
 
   <select id="pubYear" onchange="filterPublications(this.value)">
-    <option value="all">All publications</option>
+    <option value="all">All</option>
 
     {% assign current_year = site.time | date: "%Y" | plus: 0 %}
 
@@ -19,8 +19,8 @@ title: Publications
   </select>
 
 </div>
-<p id="pubCount" style="font-size:13px">
-  Publications: <strong>0</strong>
+<p id="pubCount" style="font-size:20px">
+  Publications: <b><i><font color="green">0</font></i></b>
 </p>
 
 <p style="font-size:13px">
