@@ -4,5 +4,5 @@ https://github.com/birollab/dynamic
 
 conda install -c conda-forge bioconda::dynamic
 
-Modelling dose-response signals in broth microdilution
+Modelling dose-response signals in broth microdilution assays
 Antimicrobial Discovery & Analysis
