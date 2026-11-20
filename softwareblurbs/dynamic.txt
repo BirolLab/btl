@@ -1,0 +1,8 @@
+dynamic-logo.png
+DynaMIC
+https://github.com/birollab/dynamic
+
+conda install -c conda-forge bioconda::dynamic
+
+Modelling dose-response signals in broth microdilution
+Antimicrobial Peptide (AMP) Discovery
