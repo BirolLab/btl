@@ -5,4 +5,4 @@ https://github.com/birollab/tAMPer
 
 
 Peptide toxicity prediction
-Antimicrobial Peptide (AMP) Discovery
+Antimicrobial Discovery & Analysis

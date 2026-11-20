@@ -5,4 +5,4 @@ https://github.com/birollab/triAMPh
 
 
 Heterogeneous graph networks in AMP predictions
-Antimicrobial Peptide (AMP) Discovery
+Antimicrobial Discovery & Analysis
