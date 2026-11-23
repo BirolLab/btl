@@ -3,6 +3,6 @@ DynaMIC
 https://github.com/birollab/dynamic
 
 conda install -c conda-forge bioconda::dynamic
-
+docker run quay.io/biocontainers/dynamic
 Modelling dose-response signals in broth microdilution assays
 Antimicrobial Discovery & Analysis
