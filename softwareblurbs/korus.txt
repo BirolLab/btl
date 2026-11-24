@@ -2,7 +2,7 @@ korus-logo.png
 KORUS
 https://github.com/birollab/korus
 
-
-
+conda install -c bioconda korus
+docker run quay.io/biocontainers/korus
 Probabilistic ancestry inference beyond variant calls
 Genome Analysis
